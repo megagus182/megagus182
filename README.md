@@ -9,15 +9,15 @@ JavaScript | React | Redux | HTML5 | CSS3 | NodeJs | SQL | Express | Scrum | GIT
 
 ### GameScript
 
-<a width=30% href='https://game-script.vercel.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200709189-dc07ffcf-58b3-4e9d-a65c-5909089a6f72.PNG)</a>
-
-<a href='https://game-script.vercel.app/home' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200708847-7ff7b3eb-ba27-4960-a9d4-93213d00fc96.PNG)</a>
+<a width=30% href='https://game-script.vercel.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200711373-16466bcc-e34c-4d6b-bdd3-18909d7db5ac.PNG)
+</a> <a href='https://game-script.vercel.app/home' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200711393-77350116-9e2f-472e-99a3-3d4605b9f4e5.PNG)
+</a>
 
 ### FoodApp
 
-<a href='https://gacr-food-app.netlify.app/' target='_blank'>![CapturaFood](https://user-images.githubusercontent.com/108184057/200709623-4b1ed6c4-f1e9-4549-b61f-57b52ec27fbb.PNG)</a>
-
-<a href='https://gacr-food-app.netlify.app/home' target='_blank'>![CapturaFood2](https://user-images.githubusercontent.com/108184057/200710252-a9f9a1f3-2d04-440c-b6dc-f330ac08c593.PNG)</a>
+<a href='https://gacr-food-app.netlify.app/' target='_blank'>![CapturaFood](https://user-images.githubusercontent.com/108184057/200711434-df4e3e88-3db0-42fc-b013-fddf28673bec.PNG)
+</a><a href='https://gacr-food-app.netlify.app/home' target='_blank'>![CapturaFood2](https://user-images.githubusercontent.com/108184057/200711110-c448ccb3-0749-49f1-b985-1db8f2c44244.PNG)
+</a>
 
 ## 🧰Herramientas
 
