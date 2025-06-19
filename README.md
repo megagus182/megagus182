@@ -19,16 +19,11 @@ Mis tecnologías y metodologías incluyen: 💼
 
 ### ArtGiss
 
-<a width=10%  href='https://artgis.netlify.app/' target='_blank'> ![image](https://github.com/user-attachments/assets/43cce4cc-c67b-4b41-86f8-af6db9f25c58)
-</a> <a href='https://artgis.netlify.app/galeria' target='_blank'> ![image](https://github.com/user-attachments/assets/0fae5fcb-3a7c-4bea-871c-4caed583a305)
+<a href='https://artgis.netlify.app/' target='_blank'>
+    <img src="https://github.com/user-attachments/assets/43cce4cc-c67b-4b41-86f8-af6db9f25c58" alt="ArtGiss Home" width="300px">
 </a>
-
-https://artgis.netlify.app/
-
-### GameScript
-
-<a width=30% href='https://game-script.vercel.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200711373-16466bcc-e34c-4d6b-bdd3-18909d7db5ac.PNG)
-</a> <a href='https://game-script.vercel.app/home' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200711393-77350116-9e2f-472e-99a3-3d4605b9f4e5.PNG)
+<a href='https://artgis.netlify.app/galeria' target='_blank'>
+    <img src="https://github.com/user-attachments/assets/0fae5fcb-3a7c-4bea-871c-4caed583a305" alt="ArtGiss Galeria" width="300px">
 </a>
 
 ### FoodApp
@@ -36,6 +31,13 @@ https://artgis.netlify.app/
 <a href='https://gacr-food-app.netlify.app/' target='_blank'>![CapturaFood](https://user-images.githubusercontent.com/108184057/200711434-df4e3e88-3db0-42fc-b013-fddf28673bec.PNG)
 </a><a href='https://gacr-food-app.netlify.app/home' target='_blank'>![CapturaFood2](https://user-images.githubusercontent.com/108184057/200711110-c448ccb3-0749-49f1-b985-1db8f2c44244.PNG)
 </a>
+
+### GameScript
+
+<a width=30% href='https://game-script.vercel.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200711373-16466bcc-e34c-4d6b-bdd3-18909d7db5ac.PNG)
+</a> <a href='https://game-script.vercel.app/home' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200711393-77350116-9e2f-472e-99a3-3d4605b9f4e5.PNG)
+</a>
+
 
 ## 🧰Herramientas
 
