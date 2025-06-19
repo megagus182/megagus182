@@ -1,11 +1,29 @@
 ### ![banner](https://user-images.githubusercontent.com/108184057/200703908-085a9469-4b8c-4209-9386-7f0c1ae3acd7.png)
 
-Hola GitHub 👋 mi nombre es Gustavo Castillo  ↙
+Hola GitHub 👋 ¡Soy Gustavo Castillo! ↙
 
-Soy Full Stack Web Developer graduado 🎓 en Henry,  lo cual no fue facil, pero me siento orgulloso de lo que puedo hacer ahora💪, de los proyectos que realice y las experiencias que tome, puedo manejar por ahora las siguientes tecnologías y metodologías💼 :
-JavaScript | React | Redux | HTML5 | CSS3 | NodeJs | SQL | Express | Scrum | GIT | Postman | Heroku | Netlify | 
+Como **Desarrollador Web Full Stack**, he recorrido un camino de aprendizaje constante del que me siento muy orgulloso. Mi experiencia me permite construir aplicaciones robustas, y estoy entusiasmado por seguir creciendo y aplicando mis habilidades en nuevos desafíos. 💪
+
+Actualmente, estoy **profundizando mis conocimientos en los frameworks líderes del Frontend (React y Angular)**, además de mantenerme al día con otras herramientas clave del desarrollo web.
+
+Mis tecnologías y metodologías incluyen: 💼
+**Lenguajes:** JavaScript, HTML5, CSS3
+**Frontend:** React, Redux, **Angular** (en refuerzo)
+**Backend:** Node.js, Express.js
+**Bases de Datos:** SQL
+**Herramientas y Metodologías:** Git, Postman, Scrum, Heroku, Netlify
+
+¡Listo para transformar ideas en soluciones funcionales y escalables!
 
 ### Proyectos
+
+### ArtGiss
+
+<a width=10%  href='https://artgis.netlify.app/' target='_blank'> ![image](https://github.com/user-attachments/assets/43cce4cc-c67b-4b41-86f8-af6db9f25c58)
+</a> <a href='https://artgis.netlify.app/galeria' target='_blank'> ![image](https://github.com/user-attachments/assets/0fae5fcb-3a7c-4bea-871c-4caed583a305)
+</a>
+
+https://artgis.netlify.app/
 
 ### GameScript
 
