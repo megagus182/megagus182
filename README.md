@@ -1,5 +1,5 @@
-### ![banner](https://user-images.githubusercontent.com/108184057/200703908-085a9469-4b8c-4209-9386-7f0c1ae3acd7.png)
 
+![gus](https://github.com/user-attachments/assets/15bd2852-4629-400c-81c7-4f98d52bea30)
 Hola GitHub 👋 ¡Soy Gustavo Castillo! ↙
 
 Como **Desarrollador Web Full Stack**, he recorrido un camino de aprendizaje constante del que me siento muy orgulloso. Mi experiencia me permite construir aplicaciones robustas, y estoy entusiasmado por seguir creciendo y aplicando mis habilidades en nuevos desafíos. 💪
