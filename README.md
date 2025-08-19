@@ -28,14 +28,15 @@ Mis tecnologías y metodologías incluyen: 💼
 
 ### FoodApp
 
-<a href='https://gacr-food-app.netlify.app/' target='_blank'>![CapturaFood](https://user-images.githubusercontent.com/108184057/200711434-df4e3e88-3db0-42fc-b013-fddf28673bec.PNG)
-</a><a href='https://gacr-food-app.netlify.app/home' target='_blank'>![CapturaFood2](https://user-images.githubusercontent.com/108184057/200711110-c448ccb3-0749-49f1-b985-1db8f2c44244.PNG)
+<a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="1579" height="906" alt="image" src="https://github.com/user-attachments/assets/2992739a-808f-4e21-9a4b-361b9aaffdfd" />
+
+</a><a href='https://gacr-food-app.netlify.app/' target='_blank'>![CapturaFood2](https://user-images.githubusercontent.com/108184057/200711110-c448ccb3-0749-49f1-b985-1db8f2c44244.PNG)
 </a>
 
 ### GameScript
 
-<a width=30% href='https://game-script.vercel.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200711373-16466bcc-e34c-4d6b-bdd3-18909d7db5ac.PNG)
-</a> <a href='https://game-script.vercel.app/home' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200711393-77350116-9e2f-472e-99a3-3d4605b9f4e5.PNG)
+<a width=30% href='https://gamescript-app.netlify.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200711373-16466bcc-e34c-4d6b-bdd3-18909d7db5ac.PNG)
+</a> <a href='https://gamescript-app.netlify.app/' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200711393-77350116-9e2f-472e-99a3-3d4605b9f4e5.PNG)
 </a>
 
 
