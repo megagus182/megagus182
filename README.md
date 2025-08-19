@@ -28,9 +28,9 @@ Mis tecnologías y metodologías incluyen: 💼
 
 ### FoodApp
 
-<a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="1579" height="906" alt="image" src="https://github.com/user-attachments/assets/2992739a-808f-4e21-9a4b-361b9aaffdfd" />
+<a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="300px" alt="healthy food" src="https://github.com/user-attachments/assets/2992739a-808f-4e21-9a4b-361b9aaffdfd" />
 
-</a><a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="1422" height="906" alt="image" src="https://github.com/user-attachments/assets/5224fd98-45b0-41bf-b05e-2318e59f2b7b" />
+</a><a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="300px"  alt="healthy food 2" src="https://github.com/user-attachments/assets/5224fd98-45b0-41bf-b05e-2318e59f2b7b" />
 
 </a>
 
