@@ -30,7 +30,8 @@ Mis tecnologías y metodologías incluyen: 💼
 
 <a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="1579" height="906" alt="image" src="https://github.com/user-attachments/assets/2992739a-808f-4e21-9a4b-361b9aaffdfd" />
 
-</a><a href='https://gacr-food-app.netlify.app/' target='_blank'>![CapturaFood2](https://user-images.githubusercontent.com/108184057/200711110-c448ccb3-0749-49f1-b985-1db8f2c44244.PNG)
+</a><a href='https://gacr-food-app.netlify.app/' target='_blank'><img width="1422" height="906" alt="image" src="https://github.com/user-attachments/assets/5224fd98-45b0-41bf-b05e-2318e59f2b7b" />
+
 </a>
 
 ### GameScript
