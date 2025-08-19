@@ -37,7 +37,8 @@ Mis tecnologías y metodologías incluyen: 💼
 ### GameScript
 
 <a width=30% href='https://gamescript-app.netlify.app/' target='_blank'>![CapturaGameScript1](https://user-images.githubusercontent.com/108184057/200711373-16466bcc-e34c-4d6b-bdd3-18909d7db5ac.PNG)
-</a> <a href='https://gamescript-app.netlify.app/' target='_blank'>![CapturaGameScript](https://user-images.githubusercontent.com/108184057/200711393-77350116-9e2f-472e-99a3-3d4605b9f4e5.PNG)
+</a> <a href='https://gamescript-app.netlify.app/' target='_blank'><img width="300px" alt="gamescript" src="https://github.com/user-attachments/assets/fbbeb1fb-fe29-4e9f-a428-bb9bf7c0e850" />
+
 </a>
 
 
